@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm merely going through some of the tutorials here on GihHub.
+I'm merely going through some of the tutorials here on GitHub.
 
 I'm a fan of GitHub Copilot for coding, but boy, does it get in the way when working on MD files 😄!
 
