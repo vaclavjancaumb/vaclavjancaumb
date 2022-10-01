@@ -4,7 +4,7 @@ I'm merely going through some of the tutorials here on GitHub.
 
 I'm a fan of GitHub Copilot for coding, but boy, does it get in the way when working on MD files 😄!
 
-- 😄 Pronouns: ON (Czech language 😄)
+- Pronouns: on, něj, jemu, jej, ty, něm, ním (So if you have a trouble finding enough pronouns in English, learn Czech 😄)
 
 <!--
 **vaclavjancaumb/vaclavjancaumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
